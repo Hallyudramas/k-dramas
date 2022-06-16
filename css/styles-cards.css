@@ -77,3 +77,15 @@
 .container .card:nth-child(3) {
     background-image: url(../images/Why\ Her.png);
 }
+
+.container .card:nth-child(4) {
+    background-image: url(../images/Link.png);
+}
+
+.container .card:nth-child(5) {
+    background-image: url(../images/The\ Killers\ Shopping\ List.png);
+}
+
+.container .card:nth-child(6) {
+    background-image: url(../images/Love\ all\ Play.png);
+}
